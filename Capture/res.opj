@@ -15,8 +15,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\res.olb")
-      (Select "Design Resources" ".\res.olb" "RES_THT2"))
+      (Path "Design Resources" "b:\cis_lib\capture\res.olb")
+      (Select "Design Resources" "b:\cis_lib\capture\res.olb" "RES_THT_BIG"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
