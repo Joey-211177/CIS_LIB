@@ -15,12 +15,33 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "b:\cis_lib\capture\res.olb")
-      (Select "Design Resources" "b:\cis_lib\capture\res.olb" "RES_THT_BIG"))
+      (Path "Design Resources" "b:\cis_lib\capture\res.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 936"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 913 78 582")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2683 1474")
+        (Zoom "780"))
+      (Path "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (Package "RES_THT_BIG3"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 939 104 608")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3558 1794")
+        (Zoom "1008"))
+      (Path "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (Package "RES_THT_BIG4")))
   (MPSSessionName "DELL"))
