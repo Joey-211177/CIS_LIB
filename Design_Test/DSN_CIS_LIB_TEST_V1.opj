@@ -13,6 +13,30 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (IND
+      (FullPartName "IND.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
+    (RES_THT_BIG4
+      (FullPartName "RES_THT_BIG4.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
+    (RES_THT_BIG3
+      (FullPartName "RES_THT_BIG3.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
+    (RES_THT3
+      (FullPartName "RES_THT3.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
+    (RES1
+      (FullPartName "RES1.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
+    (RES_THT_BIG2
+      (FullPartName "RES_THT_BIG2.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
     (ENJOEY_V21
       (LibraryName "L:\LIB_ENJOEY\ENJOEY_TITLE\[LOGO]ENJOEY_V3.OLB")
       (DeviceIndex "0"))
@@ -77,24 +101,12 @@
       (FullPartName "RES2.Normal")
       (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
       (DeviceIndex "0"))
-    (RES1
-      (FullPartName "RES1.Convert")
-      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
-      (DeviceIndex "0"))
     (RES
       (FullPartName "RES.Convert")
       (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
       (DeviceIndex "0"))
     (RES_THT
       (FullPartName "RES_THT.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
-      (DeviceIndex "0"))
-    (RES_SMD1
-      (FullPartName "RES_SMD1.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
-      (DeviceIndex "0"))
-    (RES_SMD
-      (FullPartName "RES_SMD.Normal")
       (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
       (DeviceIndex "0")))
   (GlobalState
@@ -106,7 +118,7 @@
       (Path "Design Resources" "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn"
          "Design Cache")
       (Select "Design Resources"
-         "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn" "SCHEMATIC1" "PAGE2"))
+         "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn" "Design Cache"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -116,22 +128,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1461 78 582")
-        (Scroll "2246 2318")
-        (Zoom "421")
-        (Occurrence "/"))
-      (Path "B:\CIS_LIB\DESIGN_TEST\DSN_CIS_LIB_TEST_V1.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
         (Placement "44 2 3 -1 -1 -8 -31 78 1461 78 582")
-        (Scroll "0 0")
-        (Zoom "400")
+        (Scroll "3594 6420")
+        (Zoom "1536")
         (Occurrence "/"))
       (Path "B:\CIS_LIB\DESIGN_TEST\DSN_CIS_LIB_TEST_V1.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE2")))
+      (Page "PAGE1")))
   (MPSSessionName "DELL")
   (LastUsedLibraryBrowseDirectory "B:\CIS_LIB\Capture"))
