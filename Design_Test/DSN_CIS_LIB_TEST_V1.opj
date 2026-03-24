@@ -13,8 +13,48 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (FB_0805
+      (FullPartName "FB_0805.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\FB.OLB")
+      (DeviceIndex "0"))
+    (FB_0603
+      (FullPartName "FB_0603.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\FB.OLB")
+      (DeviceIndex "0"))
+    (FB_0402
+      (FullPartName "FB_0402.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\FB.OLB")
+      (DeviceIndex "0"))
+    (FB_0201
+      (FullPartName "FB_0201.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\FB.OLB")
+      (DeviceIndex "0"))
+    (IND_THT2
+      (FullPartName "IND_THT2.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
+    (IND_THT
+      (FullPartName "IND_THT.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
+    (IND4
+      (FullPartName "IND4.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
     (IND
       (FullPartName "IND.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
+    (IND5
+      (FullPartName "IND5.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
+    (IND3
+      (FullPartName "IND3.Normal")
+      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
+      (DeviceIndex "0"))
+    (IND2
+      (FullPartName "IND2.Normal")
       (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
       (DeviceIndex "0"))
     (RES_THT_BIG4
@@ -68,46 +108,6 @@
     (CAP_THT2
       (FullPartName "CAP_THT2.Normal")
       (LibraryName "B:\CIS_LIB\CAPTURE\CAP.OLB")
-      (DeviceIndex "0"))
-    (CAP_THT1
-      (FullPartName "CAP_THT1.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\CAP.OLB")
-      (DeviceIndex "0"))
-    (CAP_THT
-      (FullPartName "CAP_THT.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\CAP.OLB")
-      (DeviceIndex "0"))
-    (CAP_SMD
-      (FullPartName "CAP_SMD.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\CAP.OLB")
-      (DeviceIndex "0"))
-    (CAP_NP3
-      (FullPartName "CAP_NP3.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\CAP.OLB")
-      (DeviceIndex "0"))
-    (CAP_NP2
-      (FullPartName "CAP_NP2.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\CAP.OLB")
-      (DeviceIndex "0"))
-    (CAP_NP
-      (FullPartName "CAP_NP.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\CAP.OLB")
-      (DeviceIndex "0"))
-    (CAP
-      (FullPartName "CAP.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\CAP.OLB")
-      (DeviceIndex "0"))
-    (RES2
-      (FullPartName "RES2.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
-      (DeviceIndex "0"))
-    (RES
-      (FullPartName "RES.Convert")
-      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
-      (DeviceIndex "0"))
-    (RES_THT
-      (FullPartName "RES_THT.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\RES.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -118,22 +118,12 @@
       (Path "Design Resources" "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn"
          "Design Cache")
       (Select "Design Resources"
-         "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn" "Design Cache"))
+         "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn" "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 936"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1461 78 582")
-        (Scroll "3594 6420")
-        (Zoom "1536")
-        (Occurrence "/"))
-      (Path "B:\CIS_LIB\DESIGN_TEST\DSN_CIS_LIB_TEST_V1.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+      (Tab 0)))
   (MPSSessionName "DELL")
   (LastUsedLibraryBrowseDirectory "B:\CIS_LIB\Capture"))
