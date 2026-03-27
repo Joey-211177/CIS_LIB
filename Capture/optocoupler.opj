@@ -2,25 +2,33 @@
   (ProjectVersion "19981106")
   (Folder "Design Resources"
     (Folder "Library")
-    (File ".\res.olb"
+    (File ".\optocoupler.olb"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
-    (NoModify)
-    (Board_sim_option "VHDL_flow"))
+    (NoModify))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\res.olb")
-      (Select "Design Resources" ".\res.olb"))
+      (Path "Design Resources" ".\optocoupler.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 936"))
-      (Tab 0)))
-  (MPSSessionName "DELL"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1717 78 582")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3347 756")
+        (Zoom "504"))
+      (Path "B:\CIS_LIB\CAPTURE\OPTOCOUPLER.OLB")
+      (Package "HPC952X-MS"))))
