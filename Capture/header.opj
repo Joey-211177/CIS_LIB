@@ -2,19 +2,19 @@
   (ProjectVersion "19981106")
   (Folder "Design Resources"
     (Folder "Library")
-    (File ".\optocoupler.olb"
+    (File ".\header.olb"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
+    (NoModify)
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420")
-    (NoModify))
+    (DOCKING_POSITION "59420"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\optocoupler.olb"))
+      (Path "Design Resources" ".\header.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -24,11 +24,23 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1717 78 582")
+        (Placement "44 0 1 -1 -1 -8 -31 234 1617 234 738")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
-        (Scroll "3347 756")
+        (Scroll "6532 1885")
+        (Zoom "1008"))
+      (Path "B:\CIS_LIB\CAPTURE\HEADER.OLB")
+      (Package "MARK"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 835 0 504")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1336 776")
         (Zoom "504"))
-      (Path "B:\CIS_LIB\CAPTURE\OPTOCOUPLER.OLB")
-      (Package "HPC952X-MS"))))
+      (Path "B:\CIS_LIB\CAPTURE\HEADER.OLB")
+      (Package "MARK_BIG")))
+  (MPSSessionName "DELL"))

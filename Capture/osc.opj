@@ -2,7 +2,7 @@
   (ProjectVersion "19981106")
   (Folder "Design Resources"
     (Folder "Library")
-    (File ".\ind.olb"
+    (File ".\osc.olb"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -12,10 +12,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\ind.olb"))
+      (Path "Design Resources" ".\osc.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 150"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 461"))
       (Tab 0))))
