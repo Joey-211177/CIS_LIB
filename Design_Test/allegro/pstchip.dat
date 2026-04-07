@@ -1,0 +1,15 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.6.0 d001Apr-07-2026 at 11:14:35}
+primitive 'MARK_BIG_MARK_1MMX1MM_MARK_BIG';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='MARK_BIG';
+    JEDEC_TYPE='mark_1mmx1mm';
+    VALUE='MARK_BIG';
+  end_body;
+end_primitive;
+END.

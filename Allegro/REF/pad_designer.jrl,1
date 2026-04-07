@@ -1,0 +1,46 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Tue Apr 07 11:20:58 2026
+\t (00:00:00)         Host=ENJOEY7680 User=DELL Pid=37868 CPUs=32
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe B:\CIS_LIB\Allegro\REF\mark1r0s.pad
+\t (00:00:00) 
+\i (00:00:04) setwindow form.padedit
+\i (00:00:04) FORM padedit layers  
+\i (00:00:07) FORM padedit crossbox YES 
+\i (00:00:11) FORM padedit grid row soldermask_top 
+\i (00:00:12) FORM padedit grid row soldermask_bottom 
+\i (00:00:30) FORM padedit stackbox YES 
+\i (00:00:30) FORM padedit crossbox YES 
+\i (00:00:35) FORM padedit grid row pastemask_top 
+\i (00:00:36) FORM padedit grid row pastemask_bottom 
+\i (00:00:37) FORM padedit grid row pastemask_top 
+\i (00:00:39) FORM padedit grid row pastemask_bottom 
+\i (00:00:41) FORM padedit grid row pastemask_top 
+\i (00:00:41) FORM padedit grid row soldermask_bottom 
+\i (00:00:42) FORM padedit grid row soldermask_top 
+\i (00:00:42) FORM padedit grid row begin_layer 
+\i (00:00:43) FORM padedit grid row soldermask_top 
+\i (00:00:44) FORM padedit grid row soldermask_bottom 
+\i (00:00:44) FORM padedit grid row pastemask_top 
+\i (00:00:44) FORM padedit grid row pastemask_bottom 
+\i (00:00:46) FORM padedit grid row filmmask_top 
+\i (00:00:54) FORM padedit parameters  
+\i (00:00:54) FORM padedit layers  
+\i (00:00:56) FORM padedit single NO 
+\i (00:00:58) FORM padedit single YES 
+\i (00:00:59) FORM padedit single NO 
+\i (00:01:00) FORM padedit single YES 
+\i (00:01:01) FORM padedit single NO 
+\i (00:01:01) FORM padedit single YES 
+\i (00:01:02) FORM padedit single NO 
+\i (00:01:02) FORM padedit single YES 
+\i (00:01:05) FORM padedit single NO 
+\i (00:01:10) FORM padedit single YES 
+\i (00:01:20) FORM padedit stackbox YES 
+\i (00:01:21) FORM padedit parameters  
+\i (00:01:22) FORM padedit layers  
+\i (00:01:23) FORM padedit parameters  
+\i (00:01:27) FORM padedit drill_fig Circle 
+\i (00:01:28) FORM padedit drill_fig Null 
+\i (00:01:34) FORM padedit layers  
+\i (00:03:56) pse_exit
+\t (00:03:56)     Journal end - Tue Apr 07 11:24:54 2026

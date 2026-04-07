@@ -1,0 +1,13 @@
+{ Using PSTWRITER 16.6.0 d001Apr-07-2026 at 11:14:33 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "MARK1.1" ignored for MARK1: SCHEMATIC1, PAGE1 (0.90, 0.80). Connecting pin to net "1".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... B:\CIS_LIB\DESIGN_TEST\allegro/pstchip.dat
+
+Loading... B:\CIS_LIB\DESIGN_TEST\allegro/pstchip.dat
+
+Loading... B:\CIS_LIB\DESIGN_TEST\allegro/pstxprt.dat
+
+Loading... B:\CIS_LIB\DESIGN_TEST\allegro/pstxnet.dat
+packaging the design view...

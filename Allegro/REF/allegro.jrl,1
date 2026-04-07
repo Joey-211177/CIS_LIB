@@ -1,0 +1,15 @@
+\t (00:00:00) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:00)     Journal start - Tue Apr 07 11:26:37 2026
+\t (00:00:00)         Host=ENJOEY7680 User=DELL Pid=36724 CPUs=32
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe B:\CIS_LIB\Allegro\REF\id-board.dra
+\t (00:00:00) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: B:/CIS_LIB/Allegro/REF/id-board.dra
+\i (00:00:05) trapsize 783
+\i (00:00:05) trapsize 769
+\i (00:00:05) trapsize 786
+\i (00:00:06) trapsize 927
+\i (00:00:06) trapsize 927
+\i (00:00:06) generaledit 
+\i (00:00:08) exit 
+\t (00:00:09)     Journal end - Tue Apr 07 11:26:46 2026

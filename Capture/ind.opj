@@ -2,24 +2,21 @@
   (ProjectVersion "19981106")
   (Folder "Design Resources"
     (Folder "Library")
-    (File ".\header.olb"
+    (File ".\ind.olb"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (NoModify)
-    (DOCKED "TRUE")
-    (DOCKING_POSITION "59420"))
+    (NoModify))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\header.olb"))
+      (Path "Design Resources" ".\ind.olb")
+      (Select "Design Resources" ".\ind.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 936"))
-      (Tab 0)))
-  (MPSSessionName "DELL")
-  (ISPCBBASICLICENSE "false"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 465"))
+      (Tab 0))))

@@ -1,0 +1,11 @@
+(DEVICE FILE: mark1r0-1)
+
+PACKAGE mark1r0-1
+CLASS IC
+PINCOUNT 1
+
+PINORDER mark1r0-1  1
+
+FUNCTION mark1r0-1 mark1r0-1  1
+
+END
