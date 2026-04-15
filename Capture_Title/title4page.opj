@@ -6,7 +6,9 @@
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (NoModify))
+    (NoModify)
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59421"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (GlobalState
@@ -14,11 +16,11 @@
       (Path "Design Resources")
       (Path "Design Resources" "b:\cis_lib\capture_title\title4page.olb")
       (Select "Design Resources" "b:\cis_lib\capture_title\title4page.olb"
-         "Title4Page_R"))
+         "T2P_G5R"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 465"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 936"))
       (Tab 0)))
   (MPSSessionName "DELL"))
