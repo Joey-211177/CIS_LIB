@@ -13,6 +13,9 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (ENJOEY_ONLY
+      (LibraryName "B:\CIS_LIB\CAPTURE_TITLE\TITLE_ONLY_LOGO.OLB")
+      (DeviceIndex "0"))
     (MARK_BIG
       (FullPartName "MARK_BIG.Normal")
       (LibraryName "B:\CIS_LIB\CAPTURE\HEADER.OLB")
@@ -106,22 +109,29 @@
       (DeviceIndex "0"))
     (GND
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (VCC_BAR
-      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\dsn_cis_lib_test_v1.dsn")
-      (Path "Design Resources" ".\dsn_cis_lib_test_v1.dsn" "SCHEMATIC1")
-      (Select "Design Resources" ".\dsn_cis_lib_test_v1.dsn" "SCHEMATIC1"
-         "PAGE2"))
+      (Path "Design Resources" "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn")
+      (Path "Design Resources" "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn"
+         "COVER")
+      (Select "Design Resources"
+         "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn" "COVER" "COVER_kyl_v1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 936"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1231 104 608")
+        (Scroll "-417 -2")
+        (Zoom "60"))
+      (Path "B:\CIS_LIB\DESIGN_TEST\DSN_CIS_LIB_TEST_V1.DSN")
+      (Schematic "COVER")
+      (Page "COVER_kyl_v3")))
   (MPSSessionName "DELL")
   (LastUsedLibraryBrowseDirectory "B:\CIS_LIB\Capture"))
