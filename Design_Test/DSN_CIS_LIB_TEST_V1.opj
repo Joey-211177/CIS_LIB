@@ -123,15 +123,6 @@
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 936"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1231 104 608")
-        (Scroll "-417 -2")
-        (Zoom "60"))
-      (Path "B:\CIS_LIB\DESIGN_TEST\DSN_CIS_LIB_TEST_V1.DSN")
-      (Schematic "COVER")
-      (Page "COVER_kyl_v3")))
+      (Tab 0)))
   (MPSSessionName "DELL")
   (LastUsedLibraryBrowseDirectory "B:\CIS_LIB\Capture"))
