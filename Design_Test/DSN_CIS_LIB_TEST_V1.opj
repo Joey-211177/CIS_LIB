@@ -115,9 +115,11 @@
       (Path "Design Resources")
       (Path "Design Resources" "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn")
       (Path "Design Resources" "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn"
          "COVER")
       (Select "Design Resources"
-         "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn" "COVER" "COVER_kyl_v1"))
+         "b:\cis_lib\design_test\dsn_cis_lib_test_v1.dsn" "COVER" "COVER_kyl_v2"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
