@@ -40,11 +40,12 @@
       (Path "Design Resources" ".\dsn_cis_lib_test_v2.dsn" "SCHEMATIC1")
       (Path "Design Resources" ".\dsn_cis_lib_test_v2.dsn" "Design Cache")
       (Path "Outputs")
-      (Select "Design Resources" ".\dsn_cis_lib_test_v2.dsn"))
+      (Select "Design Resources" ".\dsn_cis_lib_test_v2.dsn" "SCHEMATIC1"
+         "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 936"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 901"))
       (Tab 0)))
   (MPSSessionName "DELL"))
