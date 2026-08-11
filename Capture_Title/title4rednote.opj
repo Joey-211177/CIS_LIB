@@ -2,19 +2,20 @@
   (ProjectVersion "19981106")
   (Folder "Design Resources"
     (Folder "Library")
-    (File ".\wemedia.olb"
+    (File ".\title4rednote.olb"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (NoModify)
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420"))
+    (DOCKING_POSITION "59420")
+    (NoModify))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "b:\cis_lib\capture_title\wemedia.olb"))
+      (Path "Design Resources" ".\title4rednote.olb")
+      (Select "Design Resources" ".\title4rednote.olb" "Rednote-1010"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

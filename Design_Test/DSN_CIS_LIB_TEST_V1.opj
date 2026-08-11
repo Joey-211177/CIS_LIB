@@ -9,10 +9,32 @@
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
     (Board_sim_option "VHDL_flow"))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (RedNote[1080P]
+      (LibraryName "B:\CIS_LIB\CAPTURE_TITLE\WEMEDIA.OLB")
+      (DeviceIndex "0"))
+    (ENJOEY_V2_NEW
+      (LibraryName "B:\CIS_LIB\CAPTURE_TITLE\WEMEDIA.OLB")
+      (DeviceIndex "0"))
     (ENJOEY_ONLY
       (LibraryName "B:\CIS_LIB\CAPTURE_TITLE\TITLE_ONLY_LOGO.OLB")
       (DeviceIndex "0"))
@@ -102,13 +124,6 @@
     (CAP_THT01
       (FullPartName "CAP_THT01.Normal")
       (LibraryName "B:\CIS_LIB\CAPTURE\CAP.OLB")
-      (DeviceIndex "0"))
-    (CAP_THT0
-      (FullPartName "CAP_THT0.Normal")
-      (LibraryName "B:\CIS_LIB\CAPTURE\CAP.OLB")
-      (DeviceIndex "0"))
-    (GND
-      (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
@@ -116,13 +131,42 @@
       (Path "Design Resources" ".\dsn_cis_lib_test_v1.dsn")
       (Path "Design Resources" ".\dsn_cis_lib_test_v1.dsn" "SCHEMATIC1")
       (Path "Design Resources" ".\dsn_cis_lib_test_v1.dsn" "COVER")
-      (Select "Design Resources" ".\dsn_cis_lib_test_v1.dsn" "SCHEMATIC1"
-         "COVER_kyl"))
+      (Path "Design Resources" ".\dsn_cis_lib_test_v1.dsn" "RedNote")
+      (Select "Design Resources" ".\dsn_cis_lib_test_v1.dsn" "RedNote"
+         "PAGE2-[3:4]-4-6"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 901"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1435 52 521")
+        (Scroll "-342 0")
+        (Zoom "130")
+        (Occurrence "/"))
+      (Path "B:\CIS_LIB\DESIGN_TEST\DSN_CIS_LIB_TEST_V1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE4"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1461 78 547")
+        (Scroll "-226 0")
+        (Zoom "69"))
+      (Path "B:\CIS_LIB\DESIGN_TEST\DSN_CIS_LIB_TEST_V1.DSN")
+      (Schematic "RedNote")
+      (Page "PAGE2-[4:3]"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1487 104 573")
+        (Scroll "-543 -3")
+        (Zoom "52"))
+      (Path "B:\CIS_LIB\DESIGN_TEST\DSN_CIS_LIB_TEST_V1.DSN")
+      (Schematic "RedNote")
+      (Page "PAGE2-[3:4]-4-6")))
   (MPSSessionName "DELL")
   (LastUsedLibraryBrowseDirectory "B:\CIS_LIB\Capture"))
