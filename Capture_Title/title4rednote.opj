@@ -7,19 +7,28 @@
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420")
+    (DOCKING_POSITION "59421")
     (NoModify))
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\title4rednote.olb")
-      (Select "Design Resources" ".\title4rednote.olb" "Rednote-1010"))
+      (Path "Design Resources" "b:\cis_lib\capture_title\title4rednote.olb")
+      (Select "Design Resources" "b:\cis_lib\capture_title\title4rednote.olb"
+         "Rednote-5050"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 901"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 890"))
+      (Tab 0))
+    (Doc
+      (Type "COrNetSymbolDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1148 0 484")
+        (Scroll "0 0")
+        (Zoom "63"))
+      (Path "B:\CIS_LIB\CAPTURE_TITLE\TITLE4REDNOTE.OLB")
+      (Symbol "Rednote-1010")))
   (MPSSessionName "DELL"))
