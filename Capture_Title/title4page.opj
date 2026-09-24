@@ -14,13 +14,60 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "b:\cis_lib\capture_title\title4page.olb")
-      (Select "Design Resources" "b:\cis_lib\capture_title\title4page.olb"
-         "T2P_G5R"))
+      (Path "Design Resources" ".\title4page.olb")
+      (Select "Design Resources" ".\title4page.olb" "Library Cache"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 936"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 901"))
+      (Tab 0))
+    (Doc
+      (Type "COrNetSymbolDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1434 52 521")
+        (Scroll "3275 970")
+        (Zoom "588"))
+      (Path "B:\CIS_LIB\CAPTURE_TITLE\TITLE4PAGE.OLB")
+      (Symbol "IO_Allocation_2P"))
+    (Doc
+      (Type "COrNetSymbolDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1460 78 547")
+        (Scroll "4499 1313")
+        (Zoom "777"))
+      (Path "B:\CIS_LIB\CAPTURE_TITLE\TITLE4PAGE.OLB")
+      (Symbol "T2P_G5L"))
+    (Doc
+      (Type "COrNetSymbolDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1486 104 573")
+        (Scroll "4499 1313")
+        (Zoom "777"))
+      (Path "B:\CIS_LIB\CAPTURE_TITLE\TITLE4PAGE.OLB")
+      (Symbol "T2P_G5R"))
+    (Doc
+      (Type "COrNetSymbolDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1512 130 599")
+        (Scroll "6038 1764")
+        (Zoom "1008"))
+      (Path "B:\CIS_LIB\CAPTURE_TITLE\TITLE4PAGE.OLB")
+      (Symbol "Title4Page"))
+    (Doc
+      (Type "COrNetSymbolDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1538 156 625")
+        (Scroll "6038 1764")
+        (Zoom "1008"))
+      (Path "B:\CIS_LIB\CAPTURE_TITLE\TITLE4PAGE.OLB")
+      (Symbol "Title4Page_L"))
+    (Doc
+      (Type "COrNetSymbolDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1564 182 651")
+        (Scroll "-347 0")
+        (Zoom "10"))
+      (Path "B:\CIS_LIB\CAPTURE_TITLE\TITLE4PAGE.OLB")
+      (Symbol "Title4Page_R")))
   (MPSSessionName "DELL"))

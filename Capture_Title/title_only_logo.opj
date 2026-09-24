@@ -19,5 +19,14 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 457"))
-      (Tab 0))))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 457"))
+      (Tab 0))
+    (Doc
+      (Type "COrNetSymbolDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 234 1873 234 703")
+        (Scroll "6965 1736")
+        (Zoom "970"))
+      (Path "B:\CIS_LIB\CAPTURE_TITLE\TITLE_ONLY_LOGO.OLB")
+      (Symbol "ENJOEY_ONLY")))
+  (MPSSessionName "DELL"))

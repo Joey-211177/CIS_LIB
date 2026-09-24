@@ -15,13 +15,20 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "b:\cis_lib\capture_title\title4rednote.olb")
-      (Select "Design Resources" "b:\cis_lib\capture_title\title4rednote.olb"
-         "Rednote12896"))
+      (Path "Design Resources" ".\title4rednote.olb")
+      (Select "Design Resources" ".\title4rednote.olb" "Job"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 250 0 901"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrNetSymbolDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 188 52 538")
+        (Scroll "0 213")
+        (Zoom "160"))
+      (Path "B:\CIS_LIB\CAPTURE_TITLE\TITLE4REDNOTE.OLB")
+      (Symbol "Job")))
   (MPSSessionName "DELL"))
