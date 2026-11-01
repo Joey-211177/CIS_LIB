@@ -14,10 +14,11 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\title4ppt.olb")
-      (Select "Design Resources" ".\title4ppt.olb" "Job"))
+      (Select "Design Resources" ".\title4ppt.olb" "PPT8"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 520"))
-      (Tab 0))))
+      (Tab 0)))
+  (MPSSessionName "DELL"))
