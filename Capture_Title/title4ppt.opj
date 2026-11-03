@@ -13,9 +13,8 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "b:\cis_lib\capture_title\title4ppt.olb")
-      (Select "Design Resources" "b:\cis_lib\capture_title\title4ppt.olb"
-         "PPT8"))
+      (Path "Design Resources" ".\title4ppt.olb")
+      (Select "Design Resources" ".\title4ppt.olb" "PPT5"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")

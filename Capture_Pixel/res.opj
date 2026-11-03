@@ -12,22 +12,23 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\res.olb")
-      (Select "Design Resources" ".\res.olb" "PIXEL_RES2"))
+      (Path "Design Resources" "b:\cis_lib\capture_pixel\res.olb")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 520"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 520"))
       (Tab 0))
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 208 1107 208 677")
+        (Placement "44 0 1 -1 -1 -8 -31 208 1107 208 677")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
         (Scroll "499 177")
         (Zoom "242"))
       (Path "B:\CIS_LIB\CAPTURE_PIXEL\RES.OLB")
-      (Package "PIXEL_RES"))))
+      (Package "PIXEL_RES")))
+  (MPSSessionName "DELL"))
